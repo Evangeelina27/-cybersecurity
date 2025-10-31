@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Phishing Attacks",
+    "description": "Phishing happens when attackers send fake emails or links that look real to steal your personal information.",
+    "prevention": "Always check the sender’s email address and do not click unknown links. Report suspicious messages immediately."
+  },
+  {
+    "id": 2,
+    "title": "Weak Passwords",
+    "description": "Using simple or repeated passwords makes it easy for hackers to guess and break into your account.",
+    "prevention": "Use strong passwords with letters, numbers, and special symbols. Change them regularly."
+  },
+  {
+    "id": 3,
+    "title": "Social Engineering",
+    "description": "Attackers manipulate people into revealing confidential data by pretending to be trusted individuals.",
+    "prevention": "Verify the person’s identity before sharing any information or credentials."
+  },
+  {
+    "id": 4,
+    "title": "Negligence",
+    "description": "Leaving devices unlocked or ignoring security warnings can lead to unauthorized access.",
+    "prevention": "Always lock your devices and follow security guidelines strictly."
+  },
+  {
+    "id": 5,
+    "title": "Data Mishandling",
+    "description": "Accidentally sending sensitive data to the wrong person or storing it insecurely.",
+    "prevention": "Double-check recipients and use encrypted channels for sharing confidential data."
+  }
+]
